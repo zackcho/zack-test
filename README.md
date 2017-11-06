@@ -62,7 +62,18 @@ function test(){
 <a name="image"></a>
 # Image
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+Default
+```
+![](https://github.com/zackcho/zack-test/blob/master/eos_logo.svg)
+```
+![](https://github.com/zackcho/zack-test/blob/master/eos_logo.svg)
+> Image desc
+
+width / height
+```
+<img src="https://github.com/zackcho/zack-test/blob/master/eos_logo.svg" width="144" height="144">
+```
+<img src="https://github.com/zackcho/zack-test/blob/master/eos_logo.svg" width="144" height="144">
 > Image desc
 
 <a name="table"></a>
